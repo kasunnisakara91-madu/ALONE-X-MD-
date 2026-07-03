@@ -1,0 +1,22 @@
+module.exports = {
+    AUTO_VIEW_STATUS: 'true',
+    AUTO_LIKE_STATUS: 'true',
+    AUTO_RECORDING: 'true',
+    AUTO_LIKE_EMOJI: ['🧩', '🍉', '💜', '🌸', '🪴', '💊', '💫', '🍂', '🌟', '🎋', '😶‍🌫️', '🫀', '🧿', '👀', '🤖', '🚩', '🥰', '🗿', '💜', '💙', '🌝', '🖤', '💚'],
+    PREFIX: '.',
+    MAX_RETRIES: 3,
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/I7eReF73VGu4EU9kF9w4uS?s',
+    ADMIN_LIST_PATH: './admin.json',
+    IMAGE_PATH: 'https://i.ibb.co/TB2Xwpc5/jawadmd.jpg', //ඒක හරි 
+    NEWSLETTER_JID: '120363428670000697@newsletter',
+    NEWSLETTER_MESSAGE_ID: '428',
+    OTP_EXPIRY: 300000,
+    NEWS_JSON_URL: '',
+    BOT_NAME: 'ALONE-X-MD V8 🇱🇰',
+    OWNER_NAME: 'DAMITH MADUSANKA ',
+    OWNER_NUMBER: '94787940686',
+    WELCOME_OWNER: '94787940686',
+    BOT_VERSION: '2.0.0',
+    BOT_FOOTER: '> *𝐏𝙾𝚆𝙴𝚁𝙴𝙳 𝐁𝐘 ALONE-X-MD V8 🇱🇰*',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbDH0dj7T8bXPXQFoM0B',
+};
